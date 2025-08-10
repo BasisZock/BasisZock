@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm BasisZock</h1>
-<h3 align="center">A passionate Fullstack Minecraft developer from Germany</h3>
+<a href=""><img align="right" src="https://komarev.com/ghpvc/?username=basiszock&label=Profile%20views&color=416fe7&style=for-the-badge&labelColor=161926" alt="basiszock"></a>
+<h3 align="left">A passionate Fullstack Minecraft Developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basiszock&label=Profile%20views&color=0e75b6&style=flat" alt="basiszock" /> </p>
+<a href=""><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasisZock&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=3d444d&langs_count=6&hide=JSON,INI,Markdown,Java%20Properties,Jupyter%20Notebook,HOCON,YAML" alt="Top Languages"></a>
 
-- 🌱 I’m currently learning **Java**
+<ul>
+    <li>☕ I’m currently learning Java</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/basiszock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basiszock" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/basiszock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basiszock" height="30" width="40" /></a>
-</p>
+### Socials
+<a href="https://discord.com/users/676752991931596841"><img height="45" src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/social/discord-plural_vector.svg" alt="Discord"></a>
+<a href="https://www.youtube.com/@BasisZock"><img height="45" src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/social/youtube-plural_vector.svg" alt="YouTube"></a>
+<a href="https://twitter.com/basiszock"><img height="45" src="https://github.com/intergrav/devins-badges/blob/v3/assets/cozy-minimal/social/twitter-plural_vector.svg" alt="Twitter"></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basiszock&show_icons=true&locale=en&layout=compact" alt="basiszock" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basiszock&show_icons=true&locale=en" alt="basiszock" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basiszock&" alt="basiszock" /></p>
+### Stack
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Java-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&color=f36f53"></a> <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-x?style=for-the-badge&logo=javascript&logoColor=000000&color=f1df40"></a> <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Python-x?style=for-the-badge&logo=python&logoColor=ffffff&color=4c75a9"></a>
+
+
+### Frameworks
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/PaperMC-x?style=for-the-badge&logo=coffeescript&logoColor=ffffff&labelColor=f36f53&color=161926"></a> <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Node.js-x?style=for-the-badge&logo=node.js&logoColor=000000&labelColor=5FA04E&color=161926"></a> <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/Oracle Database-x?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=e55844&color=161926"></a> 
+
+<br>
+
+
+<div align="center">
+    <a href=""><img height="145" src="https://github-readme-stats.vercel.app/api?username=BasisZock&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=3d444d&bg_color=151515" alt="basiszock" /></a>
+    <a href=""><img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=basiszock&theme=dark&title_color=ffffff&text_color=ffffff&ring=e89327&border=3d444d&baclground=transparent" alt="basiszock" /></a>
+</div>
